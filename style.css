@@ -1,0 +1,40 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.blue-bg{
+    background-color: #0688f39f;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #edebf5;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #a3ff58 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: rgb(79, 75, 94);
+}
+footer{
+    text-align: center;
+}
